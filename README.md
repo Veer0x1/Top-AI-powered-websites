@@ -16,3 +16,4 @@ This repository is a valuable resource for developers, data scientists, and anyo
 | [Lumen5](https://lumen5.com/)                     | online video creator makes it easy for anyone on your team to create engaging video content                                |
 | [durable.co](https://durable.co/ai-website-builder)                     | Build a website in 30 seconds using artificial intelligence                                  |
 | [Resemble.ai](https://www.resemble.ai/)                     | Resemble’s AI voice generator lets you create human-like voiceovers in seconds. EMOTIONS-Add an infinite amount of emotions to your voice without any new data.                               |
+|[Rix hashnode](https://hashnode.com/rix/general)|The AI-powered chatbot for developers|
